@@ -17,3 +17,8 @@
 </br>
 </br>
 5-listfilesdigitonly – display current directory contents, in long format, numerically by uid/gid, including hidden files
+</br>
+</br>
+6-firstdirectory – a script that creates a directory named my_first_directory in the /tmp/ directory.
+</br>
+</br>
