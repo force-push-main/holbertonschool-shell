@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:upper:]]* new_dir
+mv [[:upper:]]* /tmp/u
