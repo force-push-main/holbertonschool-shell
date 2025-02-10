@@ -8,3 +8,6 @@
 </br>
 <br>
 1-listit – A script that displays the contents list of your current directory
+</br>
+</br>
+2-bring_me_home – A script that changes the working directory to the user’s home directory.
