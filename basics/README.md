@@ -14,3 +14,6 @@
 </br>
 </br>
 4-listmorefiles – displays current directory contents, including hidden files (starting with .). Use the long format.
+</br>
+</br>
+5-listfilesdigitonly – display current directory contents, in long format, numerically by uid/gid, including hidden files
