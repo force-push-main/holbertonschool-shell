@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1
+printf "%s" $(cut -c 1)
