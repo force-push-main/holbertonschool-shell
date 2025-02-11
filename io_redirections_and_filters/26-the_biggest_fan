@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d$''' ''' -f1 | sort | uniq -c | sort -c | cut -c 3- | head -11
+cat file1.tsv | tail -n +2 | cut -d$'''	''' -f1 | sort --ignore-case | uniq -c | sort --ignore-case -nr | head -11 | rev  | cut -d''' ''' -f1 | rev
